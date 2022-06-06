@@ -27,6 +27,6 @@ e o previsto vai sendo alcançado. Assim pode se ter uma visão de como está a 
 Além de todas essas funcionalidades, ainda é possível fazer querys em um formuário criado em formado de prompt de comando
 SQL para quem deseja fazer SELECTS nas tabelas do banco de dados e fazer pesquisas personalizadas de acordo com sua necessidade.
 
-Emfim, é um sistema muito completo em que eu apliquei todos meus conhecimentos de lógica de programação e SQL usando a
+Enfim, é um sistema muito completo em que eu apliquei todos meus conhecimentos de lógica de programação e SQL usando a
 linguagem Visual Basic (VBA). Foi com esta linguagem que me interessei por programação e comecei a fazer diversos
 projetos de automação de rotinas em casa e no trabalho.
